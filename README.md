@@ -75,7 +75,7 @@
 ## 联系
 您可以通过以下方式与我取得联系：
 
-- outlook：inchwell.jarvis@outlook.com 📧
-- qq：满船清梦压星河 （2237928292） 🌟
+- outlook：inchwell.jarvis inchwell.jarvis@outlook.com 📧
+- qq-mail：满船清梦压星河   2237928292@qq.com 🌟
 
 欢迎来访我的 GitHub 主页，了解更多关于我和我的项目！🌟
