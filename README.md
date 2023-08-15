@@ -1,7 +1,7 @@
 
 <div align="center">
   <h1>嗨，我是 inchwell-jarvis！👋</h1>
-  <img src="https://avatars.githubusercontent.com/u/128259245?v=4" alt="My Avatar" width="150" height="150" >
+  <img src="https://github.com/inchwell-jarvis/inchwell-jarvis/blob/main/images/avatar.png?raw=true" alt="My Avatar" width="150" height="150" >
 </div>
 
 ## 关于
