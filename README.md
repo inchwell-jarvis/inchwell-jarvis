@@ -83,7 +83,7 @@
 我热衷于将我的想法变成现实，并贡献于开源社区。以下是一些我在 GitHub 上的项目：
 - [Git-Related](https://github.com/inchwell-jarvis/Git-Related) 📚: git的安装使用与开发技巧
 - [WebSocket](https://github.com/inchwell-jarvis/WebSocket) 🌟: 一个整理了前端使用WebSocket进行实时通讯的项目
-- [learning](https://github.com/inchwell-jarvis/learning) 💻: 前端开发过程中收集的一些资料
+- [web-dev-tools](https://github.com/inchwell-jarvis/web-dev-tools) 💻: 前端开发过程中收集的一些资料
 ## 联系
 您可以通过以下方式与我取得联系：
 
